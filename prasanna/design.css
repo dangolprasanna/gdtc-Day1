@@ -1,0 +1,82 @@
+#navimg{
+    width: 1cm;
+    position: absolute;
+    right: 1cm;
+    top: 10px;
+}
+
+img:hover{
+    transform: scale(1.5);
+}
+
+.name{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nmargins{
+    padding: 15%;
+    background: rgb(2,0,36);
+    background: linear-gradient(150deg, rgba(2,0,36,1) 0%, rgba(51,51,148,1) 24%, rgba(6,75,164,1) 49%, rgba(39,51,61,1) 75%, rgba(0,212,255,1) 100%);
+    border: 2cm;
+}
+
+.grey{
+    background: rgb(174,202,238);
+    background: radial-gradient(circle, rgba(174,202,238,1) 0%, rgba(115,130,148,1) 100%);
+}
+
+h2{
+    text-decoration-line: underline;
+}
+p{
+    text-align: center;
+}
+
+.nongrey{
+    background: ;
+    background: linear-gradient(90deg, rgba(174,202,238,1) 0%, rgba(124,156,192,1) 73%, rgba(24,111,214,1) 100%);
+}
+
+.border{
+    border: 1cm;
+    border-radius: 5%;
+}
+
+section{
+    text-align: center;
+}
+
+#foot{
+    background-color: rgb(17, 16, 27);
+}
+ .contact{
+     text-align: center;
+     color:darkgray;
+     padding: 20px;
+ }
+.contact a{
+    color: darkgray;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.contact h4{
+    line-height: 1.3;
+    padding: 10px;
+}
+
+.copy{
+    padding: 20px;
+    color: darkgray;
+    font-size: 1.1rem;
+    text-align: left;
+}
+.crafted{
+    padding: 20px;
+    color: darkgray;
+    font-size: 1.1rem;
+    text-align: right;
+}
+
